@@ -84,9 +84,14 @@ body {
         
     }
     
-    .link{color:#306e63;
+    .link{
+        color:#306e63;
+        text-decoration: none;
     }
-    .endPage{color: white;}
+    .endPage{
+        color: white;
+        
+    ;}
     
 
     
