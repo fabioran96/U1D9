@@ -13,14 +13,15 @@ body {
 
     .logo{
         background-color: #222f3f; 
-        padding-top: 10px;
+        padding-top: 30px;
         padding-left: 20px;
+        padding-bottom: 30px;
     }
 
     footer{
-        background-color: #222f3f; 
+        background-color: #364759; 
         text-align: center; 
-        padding: 80px;
+        
     }
 
     nav li{ 
@@ -57,14 +58,35 @@ body {
         margin-bottom: 20px;
     }
      
+    .shopNow{
+        padding: 10px;
+    }
     .box{
         background-color: white;
-
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 0px;
+        padding-bottom: 20px;
+        width: 100%;
     }
 
     .image{
         display: inline;
-        box-sizing: border-box;
         border-radius: 10px;
         
     }
+    
+    .description{
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .backToTop{
+        text-align: center;
+        background-color: #364759;
+        padding-top: 20px;
+        padding-bottom: 20px;
+                
+    }
+    
