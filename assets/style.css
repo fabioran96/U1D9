@@ -3,7 +3,7 @@ body {
     text-align: left;
     margin: 0;
     color: #333;
-    font-family: Georgia, serif;}
+    font-family: Arial, Helvetica, sans-serif;}
 
     header{
         background-color: #364759;
@@ -16,6 +16,7 @@ body {
         padding-top: 30px;
         padding-left: 20px;
         padding-bottom: 30px;
+        margin-bottom: 10px;
     }
 
     footer{
@@ -67,14 +68,27 @@ body {
         padding-right: 20px;
         padding-top: 0px;
         padding-bottom: 20px;
-        width: 100%;
+        margin-bottom: 20px;
+        
     }
 
     .image{
-        display: inline;
-        border-radius: 10px;
+       
+        box-sizing: border-box;
+        border-radius: 10%;
+        width: 24.5%;
+        height: 350px;
+        padding: 10px;
+       
+        
         
     }
+    
+    .link{color:#306e63;
+    }
+    .endPage{color: white;}
+    
+
     
     .description{
         text-align: center;
